@@ -9,7 +9,8 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #eff8ff;
+    /* background-color: #eff8ff; */
+    background-color: #bedcfa80;
     height: 100vh;
     
 }
@@ -28,3 +29,18 @@ body{
     
 }
 
+.l{
+    color: white;
+    background-color: #28abb9;
+}
+
+.r{
+    color: white;
+    background-color: #28aab9c0;
+    text-align: center;
+    line-height: 1;
+}
+.card-right{
+    display: inline-block;
+    text-align: left;
+}
