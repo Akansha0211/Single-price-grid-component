@@ -34,8 +34,20 @@ body{
 }
 
 .top{
-    padding-left: 20px;
+    padding-left: 40px;
     padding-top: 40px;
+}
+#title-1{
+    color: #28abb9;
+    font-weight: bold;
+}
+#title-2{
+    color: #a89820;
+    font-weight: bold;
+    font-size: 20px;
+}
+.gain{
+    color: #99b9b4;
 }
 .l{
     color: white;
@@ -44,7 +56,7 @@ body{
     
 }
 .left-card{
-    padding-left: 15px;
+    padding-left: 26px;
 }
 .r{
     color: white;
@@ -59,4 +71,13 @@ body{
 }
 .row-fluid{
     margin:0px;
+}
+.btn{
+    background-color: #CDDC39;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    display: block;
+    width: 90%;
+    margin-right: 20px;
 }
