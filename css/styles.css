@@ -18,29 +18,45 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 60%;
+    width: 50%;
+   
 }
 
 .card{
     background-color: white;
     border-radius: 10px;
-    padding: 30px;
+    padding: 11px;
+    padding-bottom: 0px;
     box-shadow: 0 0 10px #eff8ff;
+    margin: 0px;
+    
     
 }
 
+.top{
+    padding-left: 20px;
+    padding-top: 40px;
+}
 .l{
     color: white;
     background-color: #28abb9;
+    border-bottom-left-radius: 10px;
+    
 }
-
+.left-card{
+    padding-left: 15px;
+}
 .r{
     color: white;
     background-color: #28aab9c0;
     text-align: center;
     line-height: 1;
+    border-bottom-right-radius: 10px;
 }
 .card-right{
     display: inline-block;
     text-align: left;
+}
+.row-fluid{
+    margin:0px;
 }
