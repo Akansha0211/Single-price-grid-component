@@ -4,8 +4,10 @@
     box-sizing: border-box;
 }
 body{
-    /* font-family: 'Gochi Hand', cursive; */
-    font-family: 'Merriweather Sans', sans-serif;
+    
+    /* font-family: 'Merriweather Sans', sans-serif; */
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -39,15 +41,16 @@ body{
 }
 #title-1{
     color: #28abb9;
-    font-weight: bold;
+    font-weight: 700;
 }
 #title-2{
     color: #a89820;
-    font-weight: bold;
+    font-weight: 700;
     font-size: 20px;
 }
 .gain{
     color: #99b9b4;
+    padding-bottom: 30px;
 }
 .l{
     color: white;
