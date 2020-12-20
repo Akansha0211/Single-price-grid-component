@@ -83,6 +83,7 @@ body{
     display: block;
     width: 90%;
     margin-right: 20px;
+    box-shadow: 5px 5px 5px #7175493a;
 }
 a{
     text-decoration: none;
@@ -93,8 +94,21 @@ a{
         color: white;
         background-color: #28abb9;
         border-radius: 0px;
-        
+        padding-bottom: 30px;
     }
+    .r{
+        color: white;
+        background-color: #28aab9c0;
+        text-align: center;
+        line-height: 1;
+        border-bottom-left-radius: 10px;
+        border-bottom-right-radius: 10px;
+    }
+    .top{  
+        padding-left: 40px;
+        padding-top: 300px;
+    }
+
 }
 @media(min-width:801px){
     .l{
