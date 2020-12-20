@@ -87,3 +87,20 @@ body{
 a{
     text-decoration: none;
 }
+
+@media(max-width:801px){
+    .l{
+        color: white;
+        background-color: #28abb9;
+        border-radius: 0px;
+        
+    }
+}
+@media(min-width:801px){
+    .l{
+        color: white;
+        background-color: #28abb9;
+        border-bottom-left-radius: 10px;
+        
+    }
+}
