@@ -108,6 +108,14 @@ a{
         padding-left: 40px;
         padding-top: 300px;
     }
+
+    .container{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+   
+}
 }
 @media(min-width:801px){
     .l{
